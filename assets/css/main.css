@@ -1050,7 +1050,7 @@ section {
 .hero-static {
   width: 100%;
   min-height: 50vh;
-  background: url('../img/hero-bg.png') center center;
+  background: url('../img/cta-nutrition.jpg') center center;
   background-size: cover;
   position: relative;
   padding: 120px 0 60px;
@@ -1387,7 +1387,7 @@ section {
       rgba(var(--color-black-rgb), 0.4),
       rgba(var(--color-black-rgb), 0.7)
     ),
-    url('../img/onfocus-video-bg.jpg') center center;
+    url('../img/cta-nutrition.jpg') center center;
   background-size: cover;
 }
 
